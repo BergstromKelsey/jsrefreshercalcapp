@@ -4,5 +4,5 @@ Refreshing myself with all material learned in the University of Minnesota Web D
 A practice app, honing in on my JavaScript knowledge and skill.
 Calulate the correct tip amount, appreciate your server!
 
-![]
-![]
+![Screenshot ](tc1.png)
+![Screenshot](tc2.png)
